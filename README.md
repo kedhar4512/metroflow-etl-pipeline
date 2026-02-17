@@ -1,7 +1,7 @@
 
 # MetroFlow — ETL Data Pipeline
 
-MetroFlow is a beginner-friendly ETL (Extract → Transform → Load) pipeline built using Python and Pandas.
+MetroFlow is a ETL (Extract → Transform → Load) pipeline built using Python and Pandas.
 
 ## Features
 - Extract data from CSV file
